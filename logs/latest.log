@@ -1,0 +1,105 @@
+[15:59:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:59:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:59:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:59:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:59:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:59:42] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:59:42] [Server thread/INFO]: Loading properties
+[15:59:42] [Server thread/INFO]: Default game type: SURVIVAL
+[15:59:42] [Server thread/INFO]: Generating keypair
+[15:59:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:59:43] [Server thread/INFO]: Using epoll channel type
+[15:59:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:59:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:59:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:59:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:59:43] [Server thread/INFO]: Preparing level "world"
+[15:59:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:59:44] [Server thread/INFO]: Loaded 6 recipes
+[15:59:45] [Server thread/INFO]: Loaded 825 advancements
+[15:59:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:49] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:00:02] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:02] [Server thread/INFO]: Preparing spawn area: 72%
+[16:00:02] [Server thread/INFO]: Time elapsed: 16065 ms
+[16:00:02] [Server thread/INFO]: Done (19.056s)! For help, type "help"
+[16:00:19] [Server thread/INFO]: jdmoreu[/179.14.81.255:49880] logged in with entity id 1 at (-961.3084872519543, 75.0, -340.34620263575783)
+[16:00:19] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[16:02:14] [Server thread/INFO]: [Admin]jdmoreu was slain by Husk
+[16:04:45] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[16:04:45] [Server thread/INFO]: [Admin]jdmoreu left the game
+[16:22:01] [Server thread/INFO]: jdmoreu[/179.14.81.255:50067] logged in with entity id 1172 at (-928.7723823024703, 74.0, -362.08923343185234)
+[16:22:01] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[16:22:05] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[16:22:05] [Server thread/INFO]: [Admin]jdmoreu left the game
+[16:22:54] [Server thread/INFO]: jdmoreu[/179.14.81.255:50075] logged in with entity id 1393 at (-928.7723823024703, 74.0, -362.08923343185234)
+[16:22:54] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[16:23:10] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[16:23:10] [Server thread/INFO]: [Admin]jdmoreu left the game
+[16:23:33] [Server thread/INFO]: jdmoreu[/179.14.81.255:50083] logged in with entity id 1633 at (-935.5228999456183, 77.0, -370.62077536460987)
+[16:23:33] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[16:23:58] [Server thread/INFO]: Joshuadc[/200.229.144.50:51303] logged in with entity id 1863 at (238.5, 67.0, -235.5)
+[16:23:58] [Server thread/INFO]: Joshuadc joined the game
+[16:24:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=240, y=66, z=-240}
+[16:24:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=241, y=66, z=-240}
+[16:24:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=242, y=66, z=-239}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=237, y=66, z=-236}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=235, y=66, z=-236}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=236, y=66, z=-236}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=235, y=66, z=-236}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=235, y=66, z=-236}
+[16:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=234, y=66, z=-236}
+[16:24:42] [Server thread/INFO]: [[Admin]jdmoreu: Teleported Joshuadc to [Admin]jdmoreu]
+[16:25:37] [Server thread/INFO]: [[Admin]jdmoreu: Set own game mode to Creative Mode]
+[16:25:52] [Server thread/INFO]: Joshuadc has made the advancement [Acquire Hardware]
+[16:26:28] [Server thread/INFO]: [[Admin]jdmoreu: Set own game mode to Survival Mode]
+[16:29:00] [Server thread/INFO]: Joshuadc has made the advancement [Suit Up]
+[16:30:11] [Server thread/INFO]: Joshuadc has made the advancement [Isn't It Iron Pick]
+[16:35:07] [Server thread/INFO]: Joshuadc has made the advancement [Monster Hunter]
+[16:35:21] [Server thread/INFO]: [[Admin]jdmoreu: Set the time to 1000]
+[16:35:45] [Server thread/INFO]: Joshuadc has made the advancement [Not Today, Thank You]
+[16:39:20] [Server thread/INFO]: Joshuadc has made the advancement [Stone Age]
+[16:49:50] [Server thread/INFO]: Joshuadc has made the advancement [Sweet Dreams]
+[16:49:51] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[16:49:51] [Server thread/INFO]: [Admin]jdmoreu left the game
+[16:49:55] [Server thread/INFO]: jdmoreu[/179.14.81.255:50181] logged in with entity id 6395 at (-1034.1750178589655, 64.0, -287.59595144517573)
+[16:49:55] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[16:56:11] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[16:56:11] [Server thread/INFO]: [Admin]jdmoreu left the game
+[17:01:13] [Server thread/INFO]: jdmoreu[/179.14.81.255:50495] logged in with entity id 8250 at (-1031.165383266458, 64.0, -280.9037715980157)
+[17:01:13] [Server thread/INFO]: [Admin]jdmoreu joined the game
+[17:08:50] [Server thread/INFO]: Joshuadc has made the advancement [Diamonds!]
+[17:17:26] [Server thread/INFO]: jdmoreu lost connection: Disconnected
+[17:17:26] [Server thread/INFO]: [Admin]jdmoreu left the game
+[17:18:37] [Server thread/INFO]: Joshuadc lost connection: Disconnected
+[17:18:37] [Server thread/INFO]: Joshuadc left the game
